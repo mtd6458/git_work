@@ -1,0 +1,3 @@
+[submodule "git_work_submodule"]
+	path = git_work_submodule
+	url = https://github.com/mtd6458/git_work_submodule.git
